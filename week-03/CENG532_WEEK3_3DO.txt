@@ -1,0 +1,20 @@
+DONE:
+1. WEEK1
+2. Tutorial: https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html
+3. WEEK2: Traditional Methods for ML on Graphs
+
+DOING:
+1. https://medium.com/@prasadostwal/multi-dimension-plots-in-python-from-2d-to-6d-9a2bf7b8cc74 (https://github.com/ostwalprasad/PythonMultiDimensionalPlots)
+2. https://towardsdatascience.com/if-multi-dimensional-hurts-your-brain-c137c9c572d6
+3. https://builtin.com/data-science/curse-dimensionality
+4. https://lvdmaaten.github.io/tsne/
+4.1. https://lvdmaaten.github.io/tsne/examples/reuters_tsne.jpg
+4.2. https://lvdmaaten.github.io/tsne/examples/20news_tsne.jpg
+4.3. https://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg
+4.4. https://lvdmaaten.github.io/tsne/examples/netflix_tsne.jpg
+5. colab.research.google.com -> sentimentAnalysis.ipynb
+6. https://medium.com/analytics-vidhya/understanding-word2vec-39fabe660705
+7. https://github.com/vpodpecan/representation_learning/blob/master/Chapter5/node2vec.ipynb
+
+TO DO: 
+1.  Node Embeddings 
