@@ -1,0 +1,19 @@
+DONE:
+1. WEEK1
+2. Tutorial: https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html
+3. WEEK2: Traditional Methods for ML on Graphs
+4. WEEK3: multi-dimension-plots, tsne, understanding-word2vec
+5. WEEK4: analysing-the-arxiv, visual-explanation-of-gradient-descent-methods
+
+DOING:
+1. Node Embeddings 
+2. https://github.com/inspirehep/refextract
+3. https://blog.arxiv.org/2017/09/27/development-update-reference-extraction-linking/
+4. https://medium.com/@aidangree/web-scraping-arxiv-to-find-academic-papers-published-by-your-colleagues-4c03902f03
+5. https://github.com/eliorc/Medium/blob/master/Nod2Vec-FIFA17-Example.ipynb
+6. https://ogb.stanford.edu/docs/lsc/mag240m/
+7. https://ogb.stanford.edu/docs/leader_nodeprop/
+
+
+TO DO: 
+1.  Link Analysis: PageRank 
