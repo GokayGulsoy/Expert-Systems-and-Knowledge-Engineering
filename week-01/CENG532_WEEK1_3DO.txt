@@ -1,0 +1,12 @@
+DONE:
+1. CENG 532 	Expert Systems and Knowledge Engineering 	MS TEAMS CODE: rqvg85y
+2. LECTURES: https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2
+3. PyG LIB: https://github.com/pyg-team/pytorch_geometric
+5. PRESENTATIONS "CS224W: Fall 2021": http://web.stanford.edu/class/cs224w/
+
+DOING:
+1. Tutorial: https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html
+
+TO DO: 
+1. Traditional Methods for ML on Graphs 
+2. Node Embeddings 
