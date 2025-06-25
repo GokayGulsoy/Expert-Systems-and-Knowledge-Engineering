@@ -17,6 +17,4 @@ Repository for the CENG532 Course that I have taken at IZTECH
 13. Reasoning over Knowledge Graphs
 14. Project Presentations
 
-[Link to course project](../../../../https://github.com/GokayGulsoy/Survey-of-Graph-Neural-Network-Models-On-DergiPark-Scientific-Article-Dataset)
-
-https://github.com/GokayGulsoy/Expert-Systems-and-Knowledge-Engineering/edit/main/README.md
+[Link to course project](../../../../../https://github.com/GokayGulsoy/Survey-of-Graph-Neural-Network-Models-On-DergiPark-Scientific-Article-Dataset)
